@@ -1,5 +1,9 @@
 # Flink SQL Submit
 
+http://wuchong.me/blog/2019/09/02/flink-sql-1-9-read-from-kafka-write-into-mysql/
+
+
+
 Currently, Flink 1.9 doesn't support to submit a DDL statement in SQL CLI, and also doesn't support to submit a SQL script.
 This is not convenient for walkthrough and demo. That's why I created a such a project.
 
@@ -15,6 +19,7 @@ This is not convenient for walkthrough and demo. That's why I created a such a p
 Starting execution of program
 Job has been submitted with JobID d01b04d7c8f8a90798d6400462718743
 ```
+https://www.apache.org/dist/flink/flink-1.9.1/flink-1.9.1-bin-scala_2.11.tgz
 
 ## Others
 

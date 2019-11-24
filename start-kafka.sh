@@ -16,9 +16,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ################################################################################
+echo "$(dirname "$0")"/kafka-common.sh
 
 source "$(dirname "$0")"/kafka-common.sh
-
+#source /Users/ghu/kafka_2.11-2.2.0/
 # prepare Kafka
 echo "Preparing Kafka..."
 
